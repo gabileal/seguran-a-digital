@@ -69,3 +69,13 @@ body{
     font-family: var(--roboto-mono);
     font-size: 28px;
 }
+
+.parametro-senha__titulo{
+    font-size:21px;
+}
+
+.parametro-coluna__titulo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
